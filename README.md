@@ -1,26 +1,23 @@
-# MapleStory Tracker
+# MapleStory Class Tracker
 
 ## Overview
-A web app for tracking MapleStory characters and account progression.
+A website for tracking MapleStory characters and their levels across all classes, with card and list views.
 
 ## MVP Requirements
-- [ ] Import existing characters where possible.
-- [ ] Display character information, including name, class, and level.
-- [ ] Refresh character data.
-- [ ] Track personal progression goals.
-- [ ] Save tracking data between sessions.
+- [ ] Display a catalog of MapleStory classes.
+- [ ] Add one or more characters for any class.
+- [ ] Enter and edit each character's level.
+- [ ] Display class artwork, class name, and level in card view.
+- [ ] Provide a compact list view for easy browsing.
+- [ ] Search, filter, and sort characters.
+- [ ] Save character data between visits.
+- [ ] Show basic account progression statistics.
+
+## Future Ideas
+- [ ] Filter classes by job type or category.
+- [ ] Track Legion goals and milestones.
+- [ ] Customize card layouts and sorting.
 
 ## Tech Stack
 - Frontend: React + TypeScript
-- Backend: TBD
-- Database: TBD
-
-## Roadmap
-1. Research character data import options.
-2. Build the basic interface.
-3. Implement character importing and data storage.
-4. Add progression tracking.
-5. Test and deploy.
-
-## Future Features
-To be determined as the project develops.
+- Storage: To be determined
